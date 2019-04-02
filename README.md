@@ -1,2 +1,2 @@
-# Time_series_5_models
-ARIMA, ETS, Prophet, Markov and Moneto Carlo models
+# Time series 5 models
+ARIMA, ETS, Prophet, Markov and Moneto Carlo models on **AirPassengers data**
